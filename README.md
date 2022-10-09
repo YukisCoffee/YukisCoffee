@@ -4,4 +4,8 @@
 
 I do mainly web development related things on this account, but I might do other things too.
 
-I'm a lead developer of the Rehike project, which seeks to restore the old YouTube layout. Currently, there is no estimated release date nor public testing plans.
+Mainly, I crave to satisfy my autistic obsession with the internals of YouTube, so that's primarily what you'll see me do. I am a lead developer of the Rehike project, which implements a custom YouTube server that accurately emulates the pre-2017 layout perfect.
+
+Check out things I'm involved with!
+
+- ### [Rehike](//github.com/Rehike/Rehike)
