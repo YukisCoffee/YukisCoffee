@@ -8,7 +8,17 @@ Mainly, I crave to satisfy my autistic obsession with the internals of YouTube, 
 
 Check out things I'm involved with!
 
-- ### [Rehike](//github.com/Rehike/Rehike)
+<a href="//github.com/Rehike/Rehike" title="Rehike">
+  <img src="/rehike_banner_small.png" alt="Rehike">
+</a>
+<br>
+<a href="//github.com/YukisCoffee/phroton" title="Phroton">
+  <img src="/phroton_banner.png" alt="Phroton">
+</a>
+<br>
+<a href="//github.com/YukisCoffee/old-reddit-pfps" title="Old Reddit PFPs">
+  <img src="/orp_banner.png" alt="Old Reddit PFPs">
+</a>
 
 # Contacts
 
