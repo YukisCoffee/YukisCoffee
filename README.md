@@ -17,4 +17,3 @@ Check out things I'm involved with!
 # Contacts
 
 Email: [kirasicecreamm@gmail.com](mailto:kirasicecreamm@gmail.com)  
-Twitter: [@kirasicecreamm](//twitter.com/kirasicecreamm)
