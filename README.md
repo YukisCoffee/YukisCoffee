@@ -6,7 +6,7 @@ She did mainly web development related things on this account, but she deleted h
 
 Mainly, she craved to satisfy her autistic obsession with the internals of YouTube, so that's primarily what you'll see on this account.
 
-Check out things I'm involved with!
+Check out things she was involved with!
 
 <a href="//github.com/YukisCoffee/phroton" title="Phroton">
   <img src="/phroton_banner.png" alt="Phroton">
